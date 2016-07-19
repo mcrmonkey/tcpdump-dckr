@@ -39,6 +39,6 @@ Then you should be all set
 
 I've not applied one.
 
-You can do what ever you like to this version. However, I'd ask you link back here if you make something based this.
+You can do what ever you like to this version. However, I'd ask you link back here if you make something based on this.
 
 
